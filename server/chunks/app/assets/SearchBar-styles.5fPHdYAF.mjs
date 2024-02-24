@@ -1,0 +1,6 @@
+const SearchBar_vue_vue_type_style_index_0_scoped_6906a27b_lang = ".bar[data-v-6906a27b]{display:flex}.bar[data-v-6906a27b],.input-wrapper[data-v-6906a27b]{position:relative}.input[data-v-6906a27b]{appearance:none;-webkit-appearance:none;-moz-appearance:none;background-color:#fff;border:1px solid #fff;border-radius:12px 0 0 12px;color:#48484a;font-size:16px;height:40px;min-width:409px;outline:none;padding:10px 12px;width:100%}.expanded[data-v-6906a27b]{border-color:#dfdfdf;border-bottom:transparent;border-radius:12px 0 0 0}.btn[data-v-6906a27b]{background-color:#48484a;border-radius:0 12px 12px 0;color:#f2f2f2;cursor:pointer;font-size:16px;height:40px;padding:10px 12px}.suggestions[data-v-6906a27b]{background-color:#fff;border:1px solid #dfdfdf;border-radius:0 0 12px 12px;border-top:none;left:0;position:absolute;top:100%;width:100%}.suggestions ul[data-v-6906a27b]{list-style-type:none;margin:0;padding:0}.suggestions ul li[data-v-6906a27b]{cursor:pointer;padding:10px}.suggestions ul li[data-v-6906a27b]:hover{background-color:#f0f0f0}";
+
+const SearchBarStyles_5fPHdYAF = [SearchBar_vue_vue_type_style_index_0_scoped_6906a27b_lang];
+
+export { SearchBarStyles_5fPHdYAF as default };
+//# sourceMappingURL=SearchBar-styles.5fPHdYAF.mjs.map
