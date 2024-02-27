@@ -10,4 +10,8 @@ export default defineNuxtConfig({
       GEOAPIFY_API_URL: process.env.GEOAPIFY_API_URL,
     },
   },
+  app: {
+    baseURL: '/nuxt3-weather-app/',
+    buildAssetsDir: 'assets',
+  },
 })
